@@ -1,4 +1,4 @@
 import { createApp } from "vue";
 import App from "./App.vue";
-import "../node_modules/bulma/css/bulma.min.css";
+import "../src/index.css/";
 createApp(App).mount("#app");

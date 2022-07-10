@@ -6,6 +6,9 @@ import MainComponent from "./components/MainComponent.vue";
   <main>
     <MainComponent />
   </main>
+  <h1 class="text-3xl font-bold underline">
+    Tailwindenabled
+  </h1>
 </template>
 
 <style>
