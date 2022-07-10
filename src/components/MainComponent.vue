@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import Section01Component from "../components/sections/Section01Component.vue";
+</script>
 
 <template>
-  <div></div>
+  <div>
+    <Section01Component />
+  </div>
 </template>
